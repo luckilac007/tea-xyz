@@ -1,0 +1,9 @@
+README.md
+hello_tea.py
+setup.py
+tea_xyz_lucki.egg-info/PKG-INFO
+tea_xyz_lucki.egg-info/SOURCES.txt
+tea_xyz_lucki.egg-info/dependency_links.txt
+tea_xyz_lucki.egg-info/entry_points.txt
+tea_xyz_lucki.egg-info/requires.txt
+tea_xyz_lucki.egg-info/top_level.txt

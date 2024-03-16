@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: tea-xyz-lucki
+Version: 1.0.6
+Summary: A simple package for https://app.tea.xyz/. Example tea-xyz - https://github.com/luckilac007/tea-xyz
+Home-page: https://github.com/luckilac007/tea-xyz
+Author: luckilac
+Author-email: luckilac007@gmail.com
+Project-URL: Homepage, https://github.com/luckilac007/tea-xyz
+Project-URL: Source, https://github.com/luckilac007/tea-xyz
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Requires-Dist: requests>=2.20.0
+Requires-Dist: tea-xyz-lucki
